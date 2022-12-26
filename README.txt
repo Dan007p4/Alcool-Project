@@ -4,9 +4,6 @@ Foi realizada a limpeza e análise dos dados ademais a elaboração de um modelo
 
 Além de um Dashboard em Power BI sobre as features relevantes.
 
- Todo projeto se encontra em um repositório do Github:
-https://github.com/Dan007p4/Alcool-Project
-
 Power BI
 https://app.powerbi.com/links/qXFoinZfdb?ctid=ea41a2d9-e85a-4edf-a41a-942f7815d17d&pbi_source=linkShare
 
